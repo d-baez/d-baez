@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and phyton
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: im a visual learner, hate textbooks
+- ⚡ Fun fact: im a visual handson learner, hate textbooks
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
