@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Java/Phyton/html
+- 🌱 I’m currently learning Html/Java/Phyton
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: He/they
 - ⚡ Fun fact: im a visual handson learner, hate textbooks
