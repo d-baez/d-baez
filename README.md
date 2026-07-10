@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on personal projects like an online portfolio and d-baez.github.io
+- 🔭 I’m currently working on personal projects like d-baez.github.io & caleDario
 - 🌱 I’m currently exploring Html/Java/Phyton
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: He/they/el
