@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on personal projects like d-baez.github.io & calenDario
-- 🌱 I’m currently exploring Html/Java/Phyton
+- 🔭 I’m currently working on personal projects like d-baez.github.io & Calendario
+- 🌱 I’m currently exploring HTML/Java/Python
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: He/they/el
 - ⚡ Fun fact: im a visual hands-on learner, hate textbooks
